@@ -6,3 +6,12 @@ CTestTest*
 Makefile
 Testing/*
 cmake_install.cmake
+
+imghash
+libpHash.so
+libpHash.so.1.0.0
+Testbmb
+Testdct
+Testmh
+Testrh
+src/pHash.h
